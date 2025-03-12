@@ -14,7 +14,7 @@ const InfoBoxes = () => {
               backgroundColor: "bg-black",
             }}
           >
-            Find your dream home. Bookmark properties and contact owners.
+            Find your next stay. Bookmark properties and contact owners.
           </InfoBox>
           <InfoBox
             heading="For Owners"
@@ -25,8 +25,7 @@ const InfoBoxes = () => {
               backgroundColor: "bg-blue-500",
             }}
           >
-            List your properties on a daily, weekly, or monthly basis and reach
-            potential renters.
+            List your properties for rent on a daily, weekly, or monthly basis.
           </InfoBox>
         </div>
       </div>

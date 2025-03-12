@@ -133,9 +133,9 @@
   },
   {
     "owner": "2",
-    "name": "Charming Cottage Getaway",
-    "type": "Cottage Or Cabin",
-    "description": "Escape to this charming cottage for a peaceful retreat.",
+    "name": "Charming Cabin Getaway",
+    "type": "Cabin",
+    "description": "Escape to this charming cabin for a peaceful retreat.",
     "location": {
       "street": "123 Countryside Lane",
       "city": "Austin",
@@ -237,7 +237,7 @@
   {
     "owner": "4",
     "name": "Rustic Cabin in the Woods",
-    "type": "Cottage Or Cabin",
+    "type": "Cabin",
     "description": "Experience nature in this cozy rustic cabin.",
     "location": {
       "street": "789 Forest Lane",
